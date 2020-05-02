@@ -1,0 +1,15 @@
+{
+  "extends": ["airbnb", "eslint-config-prettier"],
+  "plugins": ["prettier"],
+  "parser": "babel-eslint",
+  "rules": {
+    "react/forbid-prop-types": 0,
+    "react/jsx-curly-newline": "off",
+    "react/jsx-filename-extension": [
+      1,
+      {
+        "extensions": [".js", ".jsx"]
+      }
+    ]
+  }
+}
