@@ -10,7 +10,7 @@ cd MyProject
 `
 ## Intall dependencies
 `
-yarn add babel-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-import --dev
+yarn add babel-eslint eslint-config-prettier eslint-plugin-prettier eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-import eslint-config-airbnb --dev
 `
 ## Create .eslintrc.json with content from this repo
 `
